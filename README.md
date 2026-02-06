@@ -1,4 +1,3 @@
-# market_risk_model
 # 📊 Análise de Risco de Mercado com GARCH e DCC-GARCH
 
 Projeto de modelagem quantitativa para mensuração de risco de mercado em um portfólio de ações brasileiras utilizando R.
